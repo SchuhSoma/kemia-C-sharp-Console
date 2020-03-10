@@ -1,0 +1,7 @@
+C:\Users\Soma\Documents\C#2\kemia\kemia\bin\Debug\kemia.exe.config
+C:\Users\Soma\Documents\C#2\kemia\kemia\bin\Debug\kemia.exe
+C:\Users\Soma\Documents\C#2\kemia\kemia\bin\Debug\kemia.pdb
+C:\Users\Soma\Documents\C#2\kemia\kemia\obj\Debug\kemia.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\kemia\kemia\obj\Debug\kemia.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\kemia\kemia\obj\Debug\kemia.exe
+C:\Users\Soma\Documents\C#2\kemia\kemia\obj\Debug\kemia.pdb
